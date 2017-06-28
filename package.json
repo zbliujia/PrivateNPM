@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "version": "1.0.9",
+  "name": "TestSubNodeModules"
+}
